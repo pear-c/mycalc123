@@ -3,7 +3,7 @@ import setuptools
 setuptools.setup (
   include_package_data = True,
   name='mycalc123',
-  version='1.0.0',
+  version='1.0.1',
   description='oss-dev my calculator 0001',
   author='tjdghks',
   author_email='zxcv9676@naver.com',
