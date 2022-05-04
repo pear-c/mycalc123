@@ -5,7 +5,7 @@ setuptools.setup (
   name='mycalc123',
   version='1.0.0',
   description='oss-dev my calculator 0001'
-  author='sunghwanbae',
+  author='tjdghks',
   author_email='zxcv9676@naver.com',
   url = "https://github.com/pear-c/mycalc1",
   download_url = "https://github.com/pear-c/mycalc123/archive/refs/tags/v1.0.0.zip",
